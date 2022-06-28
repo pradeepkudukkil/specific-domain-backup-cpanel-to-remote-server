@@ -1,7 +1,7 @@
 Script for taking Specific domain backup in Cpanel to the remote server
 ================
 
-Using this script you can take specific domain backup in cpanel, script also taking their domlog also and moved backup to remote server.
+Using this script you can take specific domain backup in cpanel, script also taking their domlog and move backup to remote server.
 
 Script configuration
 ================
